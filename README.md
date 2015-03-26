@@ -1,2 +1,2 @@
 # Stacked_DRAM_compression
-Copmression for Stacked DRAM
+Compression for Stacked DRAM
